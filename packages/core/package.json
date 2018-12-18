@@ -1,7 +1,8 @@
 {
-  "name": "@imeepos/core",
+  "name": "chain-core",
   "version": "0.0.2",
   "dependencies": {
     "imeepos_util": "*"
-  }
+  },
+  "gitHead": "1a4c955f62851bfdf75ae4316cd274c02208c7dd"
 }

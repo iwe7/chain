@@ -1,0 +1,7 @@
+{
+    "name": "chain-node",
+    "version": "0.0.2",
+    "dependencies": {
+      "rxjs": "^6.3.3"
+    }
+  }

@@ -1,7 +1,8 @@
 {
-  "name": "@imeepos/metadata",
+  "name": "chain-metadata",
   "version": "0.0.2",
   "dependencies": {
     "rxjs": "^6.3.3"
-  }
+  },
+  "gitHead": "1a4c955f62851bfdf75ae4316cd274c02208c7dd"
 }
