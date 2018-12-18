@@ -1,8 +1,8 @@
 {
-  "name": "chain-util",
+  "name": "ims-util",
   "version": "0.0.3",
   "dependencies": {
     "ramda": "*"
   },
-  "gitHead": "1a4c955f62851bfdf75ae4316cd274c02208c7dd"
+  "gitHead": "574d64ed8e3bec893bdacf0f14a4ba0044bb3634"
 }
