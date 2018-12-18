@@ -1,0 +1,7 @@
+{
+    "name": "@imeepos/util",
+    "version": "1.0",
+    "dependencies": {
+      "ramda": "*"
+    }
+  }

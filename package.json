@@ -1,0 +1,15 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^10.12.15",
+    "@types/ramda": "^0.25.44",
+    "lerna": "^3.0.1",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  },
+  "dependencies": {
+    "ramda": "^0.26.1",
+    "reflect-metadata": "^0.1.12"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "@imeepos/metadata",
+  "version": "1.0",
+  "dependencies": {
+    "rxjs": "^6.3.3"
+  }
+}

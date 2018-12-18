@@ -1,0 +1,32 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "rootDir": "./",
+        "baseUrl": "./",
+        "importHelpers": true,
+        "sourceMap": false,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "target": "esnext",
+        "module": "commonjs",
+        "paths": {
+            "@imeepos/*": ["packages/*"]
+        },
+        "lib": [
+            "dom",
+            "es2017",
+            "es2016.array.include",
+            "esnext"
+        ],
+        "typeRoots": [
+            "node_modules/@types"
+        ],
+        "types": []
+    },
+    "exclude": [
+        "node_modules"
+    ],
+    "include": [
+        "packages"
+    ]
+}

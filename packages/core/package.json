@@ -1,0 +1,7 @@
+{
+  "name": "@imeepos/core",
+  "version": "1.0",
+  "dependencies": {
+    "imeepos_util": "*"
+  }
+}
