@@ -1,6 +1,6 @@
 {
   "name": "chain-metadata",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "dependencies": {
     "rxjs": "^6.3.3"
   },
