@@ -1,6 +1,6 @@
 {
   "name": "ims-node",
-  "version": "0.0.4-alpha.0",
+  "version": "0.0.4",
   "dependencies": {
     "rxjs": "^6.3.3"
   },

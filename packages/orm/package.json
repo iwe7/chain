@@ -1,5 +1,4 @@
 {
   "name": "ims-orm",
-  "version": "0.0.4-alpha.0",
-  "dependencies": {}
+  "version": "0.0.4"
 }
